@@ -1,16 +1,26 @@
-# **Assignment Title**  
+# **Find Doubles**  
 
 ## **Assignment Description**  
-
+Create a function called findDoubles() that returns true or false if a given word w has any repeating letters.
 
 ## **Examples**  
->
+>findDoubles("madagascar")  
+fFalse  
+
+>findDoubles("pool")  
+True
 
 ## **Limitations**  
+1 function  
+1 for loop  
+1 if statement  
 
 ## **Hints**  
+w[0] returns the first letter of w  
+Once you find a double, you do not need to continue your for loop  
 
 ## **Concepts**  
+Unit 1, Unit 2, for loops, lists.
 
 ---
 
